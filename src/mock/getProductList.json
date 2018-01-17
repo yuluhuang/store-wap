@@ -1,0 +1,703 @@
+{
+    "result": [
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 1,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 2,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 3,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 11,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 21,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 31,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 4,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 5,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 6,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 88,
+                "name": "水果1号",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 89,
+                "name": "ddd11",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "26291d8808b840ef933bcf804414fe2a",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.jpg",
+                    "id": 241,
+                    "introduction": "商品添加",
+                    "name": "商品添加",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.jpg,group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.jpg",
+                    "price": 23.00,
+                    "productCode": "d35a35f930634c7eb1c8f62de2df0b59",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320.jpg",
+                        "http://192.168.1.238/http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320.jpg,http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250.jpg",
+                    "sourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096.jpg",
+                    "standard": "sdfasdf",
+                    "status": "UP",
+                    "stock": 6,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.webp,group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 87,
+                "name": "test分组",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "26291d8808b840ef933bcf804414fe2a",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.jpg",
+                    "id": 241,
+                    "introduction": "商品添加",
+                    "name": "商品添加",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.jpg,group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.jpg",
+                    "price": 23.00,
+                    "productCode": "d35a35f930634c7eb1c8f62de2df0b59",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320.jpg",
+                        "http://192.168.1.238/http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320.jpg,http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250.jpg",
+                    "sourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096.jpg",
+                    "standard": "sdfasdf",
+                    "status": "UP",
+                    "stock": 6,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqdCAYaO7AAAYfwxuSC4320_100x100.webp,group1/M00/02/A3/wKgB7lkfqh-AUXMbABkzY4fvt8k250_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfqIuALPe1AAAYfwxuSC4096_100x100.webp",
+                    "weighingFlag": "n"
+                },
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        },
+        {
+            "group": {
+                "alias": "",
+                "catLevel": 0,
+                "groupType": "ONLINE",
+                "id": 85,
+                "name": "test",
+                "parentId": 0,
+                "shopId": 23
+            },
+            "productList": [
+                {
+                    "alias": "81527a5861af4a48be89a1468a72ee4e",
+                    "firstPictureSmall": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "id": 242,
+                    "introduction": "商品1号",
+                    "name": "商品1号",
+                    "pictureSmall": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg",
+                    "price": 56.00,
+                    "productCode": "98a9e2f6b473437da01c64c775a6ef0a",
+                    "productType": "ONLINE_GOODS",
+                    "realFirstPictureSmall": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.jpg",
+                    "realPictureSmall": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.jpg"
+                    ],
+                    "realSourcePic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg"
+                    ],
+                    "realSourcePicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "realWebpPic": [
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp",
+                        "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp"
+                    ],
+                    "realWebpPicFirst": "http://192.168.1.238/group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "shopId": 23,
+                    "sourcePic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557.jpg,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249.jpg,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027.jpg",
+                    "sourcePicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315.jpg",
+                    "status": "UP",
+                    "stock": 0,
+                    "vectorUnit": "kg",
+                    "webpPic": "group1/M00/02/A3/wKgB7lkfqxSAVUeWAABD8GnoaCE557_100x23.webp,group1/M00/02/A3/wKgB7lkfqxqAdb5lAAIZxKeKF2I249_100x75.webp,group1/M00/02/A3/wKgB7lkfqyCATkZ4ABkzY4fvt8k027_22x100.webp",
+                    "webpPicFirst": "group1/M00/02/A3/wKgB7lkfrBWAI2d1ABkzY4fvt8k315_22x100.webp",
+                    "weighingFlag": "n"
+                }
+            ]
+        }
+    ],
+    "success": true,
+    "info": "查询成功"
+}

@@ -1,0 +1,16 @@
+{
+    "header": {
+        "data": {
+            "callIcon": "glyphicon glyphicon-volume-up",
+            "searchIcon": "glyphicon glyphicon-search",
+            "notice": true,
+            "color": "green"
+        }
+    },
+    "title": {
+    },
+    "activity": {
+    },
+    "menu": {
+    }
+}
