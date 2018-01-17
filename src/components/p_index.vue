@@ -49,7 +49,14 @@
                 </div>
 
             </div>
-            <div class="col-md-3 ">
+            <div class="col-md-3 " style="border-left: 1px solid gray;" :style="{height: clientHeight + 'px'}">
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="basic-addon1">分组名</span>
+                    </div>
+                    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                </div>
+
 
             </div>
         </div>
@@ -94,6 +101,7 @@
         name: 'store',
         data () {
             return {
+                clientHeight: window.innerHeight
             }
         },
         computed: mapGetters({
