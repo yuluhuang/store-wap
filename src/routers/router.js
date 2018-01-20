@@ -1,23 +1,26 @@
 const routes = [
     {
-        name: 'Shop',
         path: '/',
+        name: 'Main',
         component (resolve) {
-            require(['../../src/components/p_index.vue'], resolve)
-        }
+            require(['../../src/components/Main.vue'], resolve)
+        },
+        children: [
+            {
+                path: '/',
+                components: {
+                    header: resolve => require(['../../src/components/common/header.vue'], resolve),
+                    leftMenu: resolve => require(['../../src/components/common/leftMenu.vue'], resolve),
+                    default: resolve => require(['../../src/components/p_index.vue'], resolve)
+                }
+            }
+        ]
     },
     {
-        name: 'Store',
-        path: '/',
+        path: '/phone',
+        name: 'phone',
         component (resolve) {
-            require(['../../src/components/p_store.vue'], resolve)
-        }
-    },
-    {
-        name: 'StoreCustom',
-        path: '/StoreCustom',
-        component (resolve) {
-            require(['../../src/components/p_store_custom.vue'], resolve)
+            require(['../../src/components/p_phone.vue'], resolve)
         }
     }
 ]

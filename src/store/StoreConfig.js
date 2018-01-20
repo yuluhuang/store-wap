@@ -48,7 +48,7 @@ export default {
             state.store.header.data.notice = isShow
         },
         [SET_STORE] (state, store) {
-            state.store.header.data = store.header.data
+            state.store.header.data = store
         }
     },
     actions: {

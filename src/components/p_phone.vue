@@ -1,21 +1,17 @@
 <template>
-    <div class="index">
-        <div class="row">
-            <div class="col-md-8">
-                <div  style="width: 640px;">
+    <div class="phone">
+        <div class=" main text-left">
+            <div class="" style="margin: auto auto;">
+                <div  style="">
                     <div v-for="(component, key) in store.components"
                          @click="setConfig(component)"
                          :key="key"
                          :is="component.is"
-                         :class="component.selected?'component-selected':''">
+                         :class="store.isEdit && component.selected?'component-selected':''">
 
                     </div>
 
                 </div>
-
-            </div>
-            <div class="col-md-4 " style="border-left: 1px solid #eee;" :style="{height: clientHeight + 'px'}">
-                <div :is="store.config"></div>
 
             </div>
         </div>
@@ -26,7 +22,7 @@
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="stylus" scoped>
     @import '../../src/assets/config.styl';
-    .index .component-selected {
+    .phone .component-selected  {
         border: 1px dashed red;
     }
 </style>
@@ -37,12 +33,18 @@
     export default {
         data () {
             return {
-                clientHeight: window.innerHeight
             }
         },
         computed: mapGetters({
             store: 'store'
         }),
+        mounted () {
+            const self = this
+            this.$http.get('http://127.0.0.1:18080/api/blog/' + this.$route.query.id).then(function (res) {
+                console.log(res.data.blog)
+                self.$store.dispatch('setStore', JSON.parse(res.data.blog.content))
+            })
+        },
         methods: {
         },
         components: {
